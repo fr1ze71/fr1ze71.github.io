@@ -1,0 +1,67 @@
+body {
+    background: #484848;
+   font-size:18px;  
+    font-family: fantasy;
+}
+
+img{
+    width: 400px;
+    transition: 0.8s;
+}
+
+div{
+    width: 800px;
+}
+.news{
+    background:#f27f9e;
+    padding: 10px 80px;
+}
+.news1{
+    background:#9472e0;  
+    padding: 10px 50px;
+}
+    
+.news2{
+    background:#1edae2;
+    padding: 10px 25px;
+}
+
+.btn_p {
+ background: #3b00ff;
+ padding: 10px 30px;
+ color: #fff;
+ text-decoration: none;
+ transition: 0.2s;   
+}
+.btn_p2 {
+  background: #f500ff;
+ padding: 10px 30px;
+ color: #808080;
+ text-decoration: none;
+ transition: 0.7s;        
+}
+
+.btn_p:hover {
+    background: #ef47e2;
+}
+
+.btn_p2:hover {
+    background: #0df0b3;
+}
+
+.btn_p3 {
+  background: #ff9401;
+ padding: 10px 30px;
+ color: #ff0031;
+ text-decoration: none;
+ transition: 0.9s;        
+}
+
+.btn_p3:hover {
+    background: #84f500;
+}
+
+img:hover {
+    border-radius: 30px;
+    transition: 0.8s;
+}
